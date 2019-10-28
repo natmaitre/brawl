@@ -1,0 +1,12 @@
+{
+  "name": "gean",
+  "version": "1.0.0",
+  "description": "Gean",
+  "main": "game.js",
+  "author": "LaV",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  }
+}
