@@ -1,12 +1,16 @@
 {
-  "name": "gean",
-  "version": "1.0.0",
-  "description": "Gean",
-  "main": "game.js",
-  "author": "LaV",
-  "license": "MIT",
+  "name": "shooter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
   "dependencies": {
-    "express": "*",
-    "socket.io": "*"
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
   }
 }
